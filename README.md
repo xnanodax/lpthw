@@ -7,4 +7,5 @@ I have learned so much from Zed Shaw and from the numerous posts from people acr
 I have provided these codes in hopes that it may help anyone who is thinking about using python as I have received so much help myself in my journey as a novice programmer. 
 
 Thank you so much for reading this file,
-- xnanodax
+
+xnanodax
